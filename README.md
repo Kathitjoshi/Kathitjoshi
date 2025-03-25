@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kathitjoshi
-- 👀 I’m interested in webdev, ML and data science too
-- 🌱 I’m currently learning python
+- 👀 I’m interested in Cloud, ML and data science too
+- 🌱 I’m currently learning Computer networks and Operating Systems Concepts.
 - 💞️ I’m looking to collaborate on anything 
 - 📫 How to reach me linkedin
 
