@@ -33,7 +33,7 @@ Welcome to my GitHub profile! I'm [Your Name], a passionate developer who loves 
 <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&amp;logo=CSS3&amp;logoColor=1572B6" alt="CSS">&nbsp;
 <img src="https://img.shields.io/badge/-Git-05122A?style=flat&amp;logo=git" alt="Git">&nbsp;
 <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&amp;logo=github" alt="GitHub">&nbsp;
-<img src="https://img.shields.io/badge/-DSA-05122A?style=flat&amp;logo=markdown" alt="DSA"><br>
+<img src="https://img.shields.io/badge/-DSA-05122A?style=flat&amp;logo=markdown" alt="DSA">
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&amp;logo=visual-studio-code&amp;logoColor=007ACC" alt="Visual Studio Code">&nbsp;
 
 ## Connect with Me
