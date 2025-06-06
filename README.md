@@ -27,10 +27,8 @@ Welcome to my GitHub profile! I'm [Your Name], a passionate developer who loves 
 <img src="https://img.shields.io/badge/-MySQL-05122A?style=flat&amp;logo=SQL&amp;logoColor=FFA518" alt="MySQL">&nbsp;
 <img src="https://img.shields.io/badge/-C-05122A?style=flat&amp;logo=C&amp;logoColor=A8B9CC" alt="C">&nbsp;
 <img src="https://img.shields.io/badge/-Latex-05122A?style=flat&amp;logo=Latex%2B%2B&amp;logoColor=00599C" alt="Latex">&nbsp;
-<img src="https://img.shields.io/badge/-S-05122A?style=flat&amp;logo=S&amp;logoColor=276DC3" alt="Statistics/Algebra"><br>
 <img src="https://img.shields.io/badge/-MERN-05122A?style=flat&amp;logo=MERN" alt="">&nbsp;
 <img src="https://img.shields.io/badge/-Golang-05122A?style=flat&amp;logo=Golang&amp;logoColor=092E20" alt="Golang">&nbsp;
-<img src="https://img.shields.io/badge/-REST APIs-05122A?style=flat&amp;logo=REST APIs" alt="REST APIs">&nbsp;
 <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&amp;logo=HTML5" alt="HTML">&nbsp;
 <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&amp;logo=CSS3&amp;logoColor=1572B6" alt="CSS">&nbsp;
 <img src="https://img.shields.io/badge/-Git-05122A?style=flat&amp;logo=git" alt="Git">&nbsp;
