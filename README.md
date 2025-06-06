@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Welcome to my GitHub profile! I'm [Your Name], a passionate developer who loves to create and contribute to open-source projects
+Welcome to my GitHub profile! I'm Kathit Joshi, a Curious Learner from PESU 27' Batch who is interested in Cloud, Data Science, Internet 🌐 and finding his place in the world 🌍 !!
 
 ## About Me
 
