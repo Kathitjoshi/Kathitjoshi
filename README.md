@@ -4,21 +4,19 @@ Welcome to my GitHub profile! I'm [Your Name], a passionate developer who loves 
 
 ## About Me
 
-- 🔭 I’m currently working on [Project Name]
-- 🌱 I’m currently learning [Technology/Skill]
-- 👯 I’m looking to collaborate on [Project/Technology]
-- 🤔 I’m looking for help with [Issue/Project]
-- 💬 Ask me about [Topic/Technology]
-- 📫 How to reach me: [Email/LinkedIn/Twitter]
-- ⚡ Fun fact: [Interesting Fact About You]
+- 🔭 I’m currently working on an ML Project.
+- 🌱 I’m currently learning Data Science and Cloud Technologies.
+- 👯 I’m looking to collaborate on anything.
+- 📫 How to reach me: [Email/LinkedIn]
+- ⚡ Fun fact: [I can multitask seamlessly]
 
 ## GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kathitjoshi&show_icons=true&theme=radical)
 
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kathitjoshi&layout=compact&theme=radical)
 
 ## Recent Activity
 
@@ -27,10 +25,9 @@ Welcome to my GitHub profile! I'm [Your Name], a passionate developer who loves 
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter)](https://twitter.com/yourprofile)
-[![Email](https://img.shields.io/badge/Email-blue?style=flat&logo=gmail)](mailto:youremail@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/kathit-joshi/)
+[![Email](https://img.shields.io/badge/Email-blue?style=flat&logo=gmail)](mailto:kathitjoshi@gmail.com)
 
 ## Visitor Count
 
-![Visitor Count](https://profile-counter.glitch.me/yourusername/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/Kathitjoshi/count.svg)
