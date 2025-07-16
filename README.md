@@ -41,5 +41,10 @@ Welcome to my GitHub profile! I'm Kathit Joshi, a Curious Learner from PESU 27' 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/kathit-joshi/)
 [![Email](https://img.shields.io/badge/Email-blue?style=flat&logo=gmail)](mailto:kathitjoshi@gmail.com)
 
-![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKathitjoshi&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)
+
+## Visitor Count 
+
+[![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2FYOUR_URL?color=blue&label=hits&size=small)](https://myhits.vercel.app)
+[![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fhttps://github.com/Kathitjoshi?color=blue&label=hits&size=small)](https://myhits.vercel.app)
+
 
