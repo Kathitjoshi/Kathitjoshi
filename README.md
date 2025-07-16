@@ -44,7 +44,6 @@ Welcome to my GitHub profile! I'm Kathit Joshi, a Curious Learner from PESU 27' 
 
 ## Visitor Count 
 
-[![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2FYOUR_URL?color=blue&label=hits&size=small)](https://myhits.vercel.app)
-[![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fhttps://github.com/Kathitjoshi?color=blue&label=hits&size=small)](https://myhits.vercel.app)
+![Visitors](https://hits.sh/https://github.com/Kathitjoshi.svg?style=flat-square)
 
 
