@@ -38,8 +38,8 @@ Welcome to my GitHub profile! I'm Kathit Joshi, a Curious Learner from PESU 27' 
 
 
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=Kathitjoshi&theme=radical)
 
-![Visitors](https://komarev.com/ghpvc/?username=Kathitjoshi&color=blue)
 
 
 
