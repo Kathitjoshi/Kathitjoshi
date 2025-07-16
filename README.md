@@ -36,6 +36,10 @@ Welcome to my GitHub profile! I'm Kathit Joshi, a Curious Learner from PESU 27' 
 <img src="https://img.shields.io/badge/-DSA-05122A?style=flat&amp;logo=markdown" alt="DSA">
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&amp;logo=visual-studio-code&amp;logoColor=007ACC" alt="Visual Studio Code">&nbsp;
 
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kathitjoshi&theme=radical)
+
+
 ## Trophies 🏆 🏆 
 
 
