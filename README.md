@@ -38,8 +38,9 @@ Welcome to my GitHub profile! I'm Kathit Joshi, a Curious Learner from PESU 27' 
 
 
 
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=repository-name)
 
+
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=yourusername&theme=github)
 
 
 
