@@ -39,8 +39,10 @@ Welcome to my GitHub profile! I'm Kathit Joshi, a Curious Learner from PESU 27' 
 
 
 
+![GitClear Changelog](https://snap-changelog.gitclear.com/user/Kathitjoshi/repo/yourrepo.svg)
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=yourusername&theme=github)
+
+
 
 
 
