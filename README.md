@@ -42,10 +42,11 @@ Welcome to my GitHub profile! I'm Kathit Joshi, a Curious Learner from PESU 27' 
 [![Email](https://img.shields.io/badge/Email-blue?style=flat&logo=gmail)](mailto:kathitjoshi@gmail.com)
 
 
-## Visitor Count 
+## Profile Summary
 
 
-![Visitor Count](https://profile-counter.glitch.me/Kathitjoshi/count.svg)
+![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kathitjoshi&theme=radical)
+
 
 
 
