@@ -36,10 +36,11 @@ Welcome to my GitHub profile! I'm Kathit Joshi, a Curious Learner from PESU 27' 
 <img src="https://img.shields.io/badge/-DSA-05122A?style=flat&amp;logo=markdown" alt="DSA">
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&amp;logo=visual-studio-code&amp;logoColor=007ACC" alt="Visual Studio Code">&nbsp;
 
+## Trophies
 
-## Metrics
 
-![Metrics](https://github.com/ligurio/metrics/blob/examples/metrics.header.svg)
+![Trophy](https://github-profile-trophy.vercel.app/?username=Kathitjoshi&theme=radical)
+
 
 
 ## Connect with Me
