@@ -44,6 +44,6 @@ Welcome to my GitHub profile! I'm Kathit Joshi, a Curious Learner from PESU 27' 
 
 ## Visitor Count 
 
-![Visitor Count](https://hitscounter.dev/api/hit?url=https://github.com/Kathitjoshi)
+![GitHub views](https://komarev.com/ghpvc/?username=<Kathitjoshi>)
 
 
