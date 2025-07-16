@@ -44,6 +44,6 @@ Welcome to my GitHub profile! I'm Kathit Joshi, a Curious Learner from PESU 27' 
 
 ## Visitor Count 
 
-![Visitors](https://hits.sh/https://github.com/Kathitjoshi.svg?style=flat-square)
+![Visitor Count](https://hitscounter.dev/api/hit?url=https://github.com/Kathitjoshi)
 
 
