@@ -38,7 +38,8 @@ Welcome to my GitHub profile! I'm Kathit Joshi, a Curious Learner from PESU 27' 
 
 
 
-![KasRoudra Stats](https://github-stats-card.vercel.app/api/show?username=Kathitjoshi)
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=repository-name)
+
 
 
 
