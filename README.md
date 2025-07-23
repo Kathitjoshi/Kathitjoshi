@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Welcome to my GitHub profile! I'm Kathit Joshi, a Curious Learner from PESU 27' Batch who is interested in Cloud, Data Science, Internet 🌐 and finding his place in the world 🌍 !!
+Welcome to my GitHub profile! I'm Kathit Joshi, a Curious Learner from PESU 27' Batch who is interested in Cloud, Data Science, Internet 🌐 related Technologies and finding his place in the world 🌍 !!
 
 ## About Me
 
