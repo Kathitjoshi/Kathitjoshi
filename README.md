@@ -46,8 +46,7 @@ Welcome to my GitHub profile! I'm Kathit Joshi, a Curious Learner from PESU 27' 
 
 ## Trophies 🏆 🏆 
 
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=Kathitjoshi&theme=radical)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Kathitjoshi&theme=radical&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
