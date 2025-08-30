@@ -1,8 +1,8 @@
 # Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+a+Cloud+Enthusiast;An+Internet+connoisseur;A+Data+Science+Nut)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+a+Cloud/DevOps+Enthusiast;An+Internet+connoisseur;A+Data+Science+Nut;Open+Source+Fan+and+Contributer)](https://git.io/typing-svg)
 
-Welcome to my GitHub profile! I'm Kathit Joshi, a Curious Learner from PESU 27' Batch who is interested in Cloud, Data Science, Internet 🌐 related Technologies and finding his place in the world 🌍 !! Click [Here](https://resume.tiiny.site/) for Resume.
+Welcome to my GitHub profile! I'm Kathit Joshi, a Curious Learner from PESU 27' Batch who is trying to finding his place in the world 🌍 !! Click [Here](https://resume.tiiny.site/) for Resume.
 
 ## About Me
 
