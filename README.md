@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+a+Cloud/DevOps+Enthusiast;An+Internet+connoisseur;A+Data+Science+Nut;Open+Source+Fan+and+Contributer)](https://git.io/typing-svg)
 
-Welcome to my GitHub profile! I'm Kathit Joshi, a Curious Learner from PESU 27' Batch who is trying to finding his place in the world 🌍 !! Click [Here](https://drive.google.com/file/d/11ChefFKUXv_wApctUdfESpL8CmOUhRLZ/view?usp=drive_link) for Resume.
+Welcome to my GitHub profile! I'm Kathit Joshi, a Curious Learner from PESU 27' Batch who is trying to finding his place in the world 🌍 !! Click [Here](https://drive.google.com/file/d/1Bdk6xuicDRAQaftF4uHpHSuRHE9UwH2c/view?usp=drive_link) for Resume.
 
 ## About Me
 
