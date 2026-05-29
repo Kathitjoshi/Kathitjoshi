@@ -15,8 +15,8 @@ Welcome to my GitHub profile! I'm Kathit Joshi, a Curious Learner from PESU 27' 
 ## GitHub Streak
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Kathitjoshi&theme=radical)](https://git.io/streak-stats)
 
-## Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Kathitjoshi&theme=radical&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+## Activity Graph
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kathitjoshi&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right">
 
@@ -57,8 +57,7 @@ Welcome to my GitHub profile! I'm Kathit Joshi, a Curious Learner from PESU 27' 
 ## Profile Summary
 
 
-![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kathitjoshi&theme=radical)
-
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kathitjoshi&theme=radical)
 
 
 
