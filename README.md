@@ -41,7 +41,6 @@ Welcome to my GitHub profile! I'm Kathit Joshi, a Curious Learner from PESU 27' 
 
 
 
-
 ## ✍️ Programming Quote
 
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -52,6 +51,9 @@ Welcome to my GitHub profile! I'm Kathit Joshi, a Curious Learner from PESU 27' 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/kathit-joshi/)
 [![Email](https://img.shields.io/badge/Email-blue?style=flat&logo=gmail)](mailto:kathitjoshi@gmail.com)
+
+## Views
+![Views](https://komarev.com/ghpvc/?username=Kathitjoshi&color=blueviolet&style=for-the-badge)
 
 
 ## Profile Summary
