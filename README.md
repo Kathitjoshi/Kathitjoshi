@@ -13,10 +13,10 @@ Welcome to my GitHub profile! I'm Kathit Joshi, a Curious Learner from PESU 27' 
 - ⚡ Fun fact: [I can multitask seamlessly]
 
 ## GitHub Stats
-![Your GitHub Stats](https://YOUR-INSTANCE.vercel.app/api?username=Kathitjoshi&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Kathitjoshi&show_icons=true&theme=radical)
 
 ## Top Languages
-![Top Languages](https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=Kathitjoshi&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Kathitjoshi&layout=compact&theme=radical)
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right">
 
