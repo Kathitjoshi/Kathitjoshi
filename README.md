@@ -12,11 +12,11 @@ Welcome to my GitHub profile! I'm Kathit Joshi, a Curious Learner from PESU 27' 
 - 📫 How to reach me: [Email/LinkedIn]
 - ⚡ Fun fact: [I can multitask seamlessly]
 
-## GitHub Stats
-![Your GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Kathitjoshi&show_icons=true&theme=radical)
+## GitHub Streak
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Kathitjoshi&theme=radical)](https://git.io/streak-stats)
 
-## Top Languages
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Kathitjoshi&layout=compact&theme=radical)
+## Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=Kathitjoshi&theme=radical&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right">
 
