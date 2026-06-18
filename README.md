@@ -26,7 +26,8 @@ Welcome to my GitHub profile! I'm Kathit Joshi, a Curious Learner from PESU 27' 
 
 <p><img src="https://img.shields.io/badge/-Python-05122A?style=flat&amp;logo=python" alt="Python">&nbsp;
 <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&amp;logo=javascript" alt="JavaScript">&nbsp;
-<img src="https://img.shields.io/badge/-MySQL-05122A?style=flat&amp;logo=SQL&amp;logoColor=FFA518" alt="MySQL">&nbsp;
+<img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=4169E1" alt="PostgreSQL">&nbsp; 
+<img src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1" alt="MySQL">
 <img src="https://img.shields.io/badge/-C-05122A?style=flat&amp;logo=C&amp;logoColor=A8B9CC" alt="C">&nbsp;
 <img src="https://img.shields.io/badge/-Latex-05122A?style=flat&amp;logo=Latex%2B%2B&amp;logoColor=00599C" alt="Latex">&nbsp;
 <img src="https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb&logoColor=47A248" alt="MongoDB">&nbsp;
@@ -34,7 +35,7 @@ Welcome to my GitHub profile! I'm Kathit Joshi, a Curious Learner from PESU 27' 
 <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=61DAFB" alt="React">&nbsp;
 <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=nodedotjs&logoColor=339933" alt="Node.js">
 <img src="https://img.shields.io/badge/-Go-05122A?style=flat&logo=go&logoColor=00ADD8" alt="Golang">&nbsp;
-<img src="https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3&logoColor=1572B6" alt="CSS">
+<img src="https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3&logoColor=1572B6" alt="CSS3">  
 <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&amp;logo=HTML5" alt="HTML">&nbsp;
 <img src="https://img.shields.io/badge/-Git-05122A?style=flat&amp;logo=git" alt="Git">&nbsp;
 <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&amp;logo=github" alt="GitHub">&nbsp;
@@ -72,7 +73,7 @@ Welcome to my GitHub profile! I'm Kathit Joshi, a Curious Learner from PESU 27' 
 <img src="https://img.shields.io/badge/-Canva-05122A?style=flat&logo=canva&logoColor=00C4CC" alt="Canva">&nbsp;
 <img src="https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma&logoColor=F24E1E" alt="Figma">&nbsp;
 <img src="https://img.shields.io/badge/-Jira-05122A?style=flat&logo=jira&logoColor=0052CC" alt="Jira">
-
+<img src="https://img.shields.io/badge/-MinIO-05122A?style=flat&logo=minio&logoColor=C72E49" alt="MinIO">
 
 
 
