@@ -35,7 +35,7 @@ Welcome to my GitHub profile! I'm Kathit Joshi, a Curious Learner from PESU 27' 
 <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=61DAFB" alt="React">&nbsp;
 <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=nodedotjs&logoColor=339933" alt="Node.js">
 <img src="https://img.shields.io/badge/-Go-05122A?style=flat&logo=go&logoColor=00ADD8" alt="Golang">&nbsp;
-<img src="https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3&logoColor=1572B6" alt="CSS3">  
+<img src="https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=w3c&logoColor=005A9C" alt="CSS3">  
 <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&amp;logo=HTML5" alt="HTML">&nbsp;
 <img src="https://img.shields.io/badge/-Git-05122A?style=flat&amp;logo=git" alt="Git">&nbsp;
 <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&amp;logo=github" alt="GitHub">&nbsp;
@@ -64,7 +64,7 @@ Welcome to my GitHub profile! I'm Kathit Joshi, a Curious Learner from PESU 27' 
 <img src="https://img.shields.io/badge/-Machine_Learning-05122A?style=flat&logo=scikitlearn&logoColor=F7931E" alt="Machine Learning">&nbsp;
 <img src="https://img.shields.io/badge/-Hugging_Face-05122A?style=flat&logo=huggingface" alt="Hugging Face">&nbsp;
 <img src="https://img.shields.io/badge/-Generative_AI-05122A?style=flat&logo=openai&logoColor=white" alt="Generative AI">&nbsp;
-<img src="https://img.shields.io/badge/-Prompt_Engineering-05122A?style=flat&logo=anthropic&logoColor=white" alt="Prompt Engineering">
+<img src="https://img.shields.io/badge/-Prompt_Engineering-05122A?style=flat&logo=anthropic&logoColor=F9F9F6" alt="Prompt Engineering">
 <img src="https://img.shields.io/badge/-CN-05122A?style=flat&logo=wireshark&logoColor=167EC6" alt="Computer Networks">&nbsp;
 <img src="https://img.shields.io/badge/-OS-05122A?style=flat&logo=gnubash&logoColor=white" alt="Operating Systems">&nbsp;
 <img src="https://img.shields.io/badge/-OOPS-05122A?style=flat&logo=codeblocks&logoColor=white" alt="Object-Oriented Programming">&nbsp;
@@ -74,7 +74,7 @@ Welcome to my GitHub profile! I'm Kathit Joshi, a Curious Learner from PESU 27' 
 <img src="https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma&logoColor=F24E1E" alt="Figma">&nbsp;
 <img src="https://img.shields.io/badge/-Jira-05122A?style=flat&logo=jira&logoColor=0052CC" alt="Jira">
 <img src="https://img.shields.io/badge/-MinIO-05122A?style=flat&logo=minio&logoColor=C72E49" alt="MinIO">
-
+<img src="https://img.shields.io/badge/-Database_Technology-05122A?style=flat&logo=databricks&logoColor=FF3621" alt="Database Technology">&nbsp;
 
 
 
