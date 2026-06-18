@@ -35,7 +35,7 @@ Welcome to my GitHub profile! I'm Kathit Joshi, a Curious Learner from PESU 27' 
 <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=61DAFB" alt="React">&nbsp;
 <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=nodedotjs&logoColor=339933" alt="Node.js">
 <img src="https://img.shields.io/badge/-Go-05122A?style=flat&logo=go&logoColor=00ADD8" alt="Golang">&nbsp;
-<img src="https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=w3c&logoColor=005A9C" alt="CSS3">  
+<img src="https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=w3c&logoColor=1572B6" alt="CSS3">
 <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&amp;logo=HTML5" alt="HTML">&nbsp;
 <img src="https://img.shields.io/badge/-Git-05122A?style=flat&amp;logo=git" alt="Git">&nbsp;
 <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&amp;logo=github" alt="GitHub">&nbsp;
