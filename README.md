@@ -68,6 +68,7 @@ Welcome to my GitHub profile! I'm Kathit Joshi, a Curious Learner from PESU 27' 
 <img src="https://img.shields.io/badge/-OS-05122A?style=flat&logo=gnubash&logoColor=white" alt="Operating Systems">&nbsp;
 <img src="https://img.shields.io/badge/-OOPS-05122A?style=flat&logo=codeblocks&logoColor=white" alt="Object-Oriented Programming">&nbsp;
 <img src="https://img.shields.io/badge/-REST_APIs-05122A?style=flat&logo=postman&logoColor=FF6C37" alt="REST APIs">
+<img src="https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman&logoColor=FF6C37" alt="Postman"> 
 <img src="https://img.shields.io/badge/-Canva-05122A?style=flat&logo=canva&logoColor=00C4CC" alt="Canva">&nbsp;
 <img src="https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma&logoColor=F24E1E" alt="Figma">&nbsp;
 <img src="https://img.shields.io/badge/-Jira-05122A?style=flat&logo=jira&logoColor=0052CC" alt="Jira">
