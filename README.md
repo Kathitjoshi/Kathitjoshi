@@ -42,7 +42,7 @@ Welcome to my GitHub profile! I'm Kathit Joshi, a Curious Learner from PESU 27' 
 <img src="https://img.shields.io/badge/-DSA-05122A?style=flat&amp;logo=markdown" alt="DSA">
 <img src="https://img.shields.io/badge/-Ganache-05122A?style=flat&logo=truffle" alt="Ganache">&nbsp;
 <img src="https://img.shields.io/badge/-Solidity-05122A?style=flat&logo=solidity&logoColor=white" alt="Solidity">&nbsp;
-<img src="https://img.shields.io/badge/-MetaMask-05122A?style=flat&logo=metamask" alt="MetaMask">&nbsp;
+<img src="https://img.shields.io/badge/-MetaMask-05122A?style=flat&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMTggMzE4Ij48cGF0aCBmaWxsPSIjRTQ3NjIyIiBkPSJNMzEwLjQgOTBsLTEuOS0zLjRDMzA0LjggNzQuNiAyNzMuMiAyOSAyMjguMiAyNWwtLjYgNC45YzgxIDcgNzcuNSA4MCA3OC43IDg2LjNsLTMuOS02LjJ6Ii8+PHBhdGggZmlsbD0iI0Y2ODUxQyIgZD0iTTE1OS4xIDEwLjRsLTUuNCA5LjN2NzguN2w1LjQtNS40IDUuNCA1LjRWMTkuN3oiLz48cGF0aCBmaWxsPSIjRTQ3NjIyIiBkPSJNMjI3LjYgMjkuOWwtMjQtMTAuNS00NC41LTkgNDQuNSA5eiIvPjxwYXRoIGZpbGw9IiNENDY5M0MiIGQ9Ik0xNTkgMTEwLjNsLTg4LjYgMTkgMTUuNCAyNi41IDczLjItMjIuOHoiLz48cGF0aCBmaWxsPSIjRDQ2OTNDIiBkPSJNMTU5IDExMC4zbDg4LjYgMTktMTUuNCAyNi41LTczLjItMjIuOHoiLz48cGF0aCBmaWxsPSIjRjY4NTFDIiBkPSJNMjQ3LjYgMTI5LjNsMTUuNC0yNi41IDQ3LjQgMTIuNi0xNC44IDU0LjV6Ii8+PHBhdGggZmlsbD0iI0Y2ODUxQyIgZD0iTTU1IDExNS40bC0xNC44LTU0LjUgNDcuNCAxMi42eiIvPjxwYXRoIGZpbGw9IiNFNzVDQjMiIGQ9Ik0xNTkgMjE5LjNsLTU0LjQgNDIuNyA0LjYgNy44IDQ5LjgtMTUuOHoiLz48cGF0aCBmaWxsPSIjRTc1Q0IzIiBkPSJNMTU5IDIxOS4zbDU0LjQgNDIuNy00LjYgNy44LTQ5LjgtMTUuOHoiLz48cGF0aCBmaWxsPSIjRjY4NTFDIiBkPSJNMTA0LjYgMjYybDU0LjQgNDUuNnYtODguNXoiLz48cGF0aCBmaWxsPSIjRjY4NTFDIiBkPSJNMjEzLjQgMjYybC01NC40IDQ1LjZ2LTg4LjV6Ii8+PHBhdGggZmlsbD0iIzI4MTRDMiIgZD0iTTE1OSAxNzMuOWwtNzUuNi0xNy40IDIxLjIgMTkuNnoiLz48cGF0aCBmaWxsPSIjMjgxNEMyIiBkPSJNMTU5IDE1Ni41bDU0LjQgMTcuNCAyMS4yLTE5LjZ6Ii8+PC9zdmc%2B" alt="MetaMask">  
 <img src="https://img.shields.io/badge/-Cryptography-05122A?style=flat&logo=auth0&logoColor=EB5424" alt="Cryptography">
 <img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker&logoColor=2496ED" alt="Docker">&nbsp;
 <img src="https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes&logoColor=326CE5" alt="Kubernetes">&nbsp;
@@ -63,7 +63,7 @@ Welcome to my GitHub profile! I'm Kathit Joshi, a Curious Learner from PESU 27' 
 <img src="https://img.shields.io/badge/-Plotly-05122A?style=flat&logo=plotly&logoColor=3F4F75" alt="Plotly">&nbsp;
 <img src="https://img.shields.io/badge/-Machine_Learning-05122A?style=flat&logo=scikitlearn&logoColor=F7931E" alt="Machine Learning">&nbsp;
 <img src="https://img.shields.io/badge/-Hugging_Face-05122A?style=flat&logo=huggingface" alt="Hugging Face">&nbsp;
-<img src="https://img.shields.io/badge/-Generative_AI-05122A?style=flat&logo=anthropi&logoColor=FFFFFF" alt="Generative AI">&nbsp;
+<img src="https://img.shields.io/badge/-Generative_AI-05122A?style=flat&logo=anthropic&logoColor=F9F9F6" alt="Generative AI">&nbsp;
 <img src="https://img.shields.io/badge/-Prompt_Engineering-05122A?style=flat&logo=anthropic&logoColor=F9F9F6" alt="Prompt Engineering">
 <img src="https://img.shields.io/badge/-CN-05122A?style=flat&logo=wireshark&logoColor=167EC6" alt="Computer Networks">&nbsp;
 <img src="https://img.shields.io/badge/-OS-05122A?style=flat&logo=gnubash&logoColor=white" alt="Operating Systems">&nbsp;
