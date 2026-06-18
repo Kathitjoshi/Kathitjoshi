@@ -29,13 +29,49 @@ Welcome to my GitHub profile! I'm Kathit Joshi, a Curious Learner from PESU 27' 
 <img src="https://img.shields.io/badge/-MySQL-05122A?style=flat&amp;logo=SQL&amp;logoColor=FFA518" alt="MySQL">&nbsp;
 <img src="https://img.shields.io/badge/-C-05122A?style=flat&amp;logo=C&amp;logoColor=A8B9CC" alt="C">&nbsp;
 <img src="https://img.shields.io/badge/-Latex-05122A?style=flat&amp;logo=Latex%2B%2B&amp;logoColor=00599C" alt="Latex">&nbsp;
-<img src="https://img.shields.io/badge/-MERN-05122A?style=flat&amp;logo=MERN" alt="">&nbsp;
-<img src="https://img.shields.io/badge/-Golang-05122A?style=flat&amp;logo=Golang&amp;logoColor=092E20" alt="Golang">&nbsp;
+<img src="https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb&logoColor=47A248" alt="MongoDB">&nbsp;
+<img src="https://img.shields.io/badge/-Express-05122A?style=flat&logo=express&logoColor=white" alt="Express">&nbsp;
+<img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=61DAFB" alt="React">&nbsp;
+<img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=nodedotjs&logoColor=339933" alt="Node.js">
+<img src="https://img.shields.io/badge/-Go-05122A?style=flat&logo=go&logoColor=00ADD8" alt="Golang">&nbsp;
+<img src="https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3&logoColor=1572B6" alt="CSS">
 <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&amp;logo=HTML5" alt="HTML">&nbsp;
-<img src="https://img.shields.io/badge/-CSS-05122A?style=flat&amp;logo=CSS3&amp;logoColor=1572B6" alt="CSS">&nbsp;
 <img src="https://img.shields.io/badge/-Git-05122A?style=flat&amp;logo=git" alt="Git">&nbsp;
 <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&amp;logo=github" alt="GitHub">&nbsp;
 <img src="https://img.shields.io/badge/-DSA-05122A?style=flat&amp;logo=markdown" alt="DSA">
+<img src="https://img.shields.io/badge/-Ganache-05122A?style=flat&logo=truffle" alt="Ganache">&nbsp;
+<img src="https://img.shields.io/badge/-Solidity-05122A?style=flat&logo=solidity&logoColor=white" alt="Solidity">&nbsp;
+<img src="https://img.shields.io/badge/-MetaMask-05122A?style=flat&logo=metamask" alt="MetaMask">&nbsp;
+<img src="https://img.shields.io/badge/-Cryptography-05122A?style=flat&logo=secretnetwork&logoColor=white" alt="Cryptography">
+<img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker&logoColor=2496ED" alt="Docker">&nbsp;
+<img src="https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes&logoColor=326CE5" alt="Kubernetes">&nbsp;
+<img src="https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=FCC624" alt="Linux">&nbsp;
+<img src="https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=vercel&logoColor=white" alt="Vercel">&nbsp;
+<img src="https://img.shields.io/badge/-Render-05122A?style=flat&logo=render&logoColor=white" alt="Render">
+<img src="https://img.shields.io/badge/-Apache_Spark-05122A?style=flat&logo=apachespark&logoColor=E25A1B" alt="Apache Spark">&nbsp;
+<img src="https://img.shields.io/badge/-Apache_Kafka-05122A?style=flat&logo=apachekafka&logoColor=white" alt="Apache Kafka">&nbsp;
+<img src="https://img.shields.io/badge/-Apache_Hadoop-05122A?style=flat&logo=apachehadoop&logoColor=66CCFF" alt="Apache Hadoop">&nbsp;
+<img src="https://img.shields.io/badge/-Neo4j-05122A?style=flat&logo=neo4j&logoColor=008CC1" alt="Neo4j">&nbsp;
+<img src="https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis&logoColor=DC382D" alt="Redis">
+<img src="https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow&logoColor=FF6F00" alt="TensorFlow">&nbsp;
+<img src="https://img.shields.io/badge/-Matplotlib-05122A?style=flat&logo=python&logoColor=white" alt="Matplotlib">&nbsp;
+<img src="https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=numpy&logoColor=013243" alt="NumPy">&nbsp;
+<img src="https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas&logoColor=150458" alt="Pandas">&nbsp;
+<img src="https://img.shields.io/badge/-Seaborn-05122A?style=flat&logo=python&logoColor=white" alt="Seaborn">&nbsp;
+<img src="https://img.shields.io/badge/-SciPy-05122A?style=flat&logo=scipy&logoColor=8CAAE6" alt="SciPy">&nbsp;
+<img src="https://img.shields.io/badge/-Plotly-05122A?style=flat&logo=plotly&logoColor=3F4F75" alt="Plotly">&nbsp;
+<img src="https://img.shields.io/badge/-Machine_Learning-05122A?style=flat&logo=scikitlearn&logoColor=F7931E" alt="Machine Learning">&nbsp;
+<img src="https://img.shields.io/badge/-Hugging_Face-05122A?style=flat&logo=huggingface" alt="Hugging Face">&nbsp;
+<img src="https://img.shields.io/badge/-Generative_AI-05122A?style=flat&logo=openai&logoColor=white" alt="Generative AI">&nbsp;
+<img src="https://img.shields.io/badge/-Prompt_Engineering-05122A?style=flat&logo=anthropic&logoColor=white" alt="Prompt Engineering">
+<img src="https://img.shields.io/badge/-CN-05122A?style=flat&logo=wireshark&logoColor=167EC6" alt="Computer Networks">&nbsp;
+<img src="https://img.shields.io/badge/-OS-05122A?style=flat&logo=gnubash&logoColor=white" alt="Operating Systems">&nbsp;
+<img src="https://img.shields.io/badge/-OOPS-05122A?style=flat&logo=codeblocks&logoColor=white" alt="Object-Oriented Programming">&nbsp;
+<img src="https://img.shields.io/badge/-REST_APIs-05122A?style=flat&logo=postman&logoColor=FF6C37" alt="REST APIs">
+<img src="https://img.shields.io/badge/-Canva-05122A?style=flat&logo=canva&logoColor=00C4CC" alt="Canva">&nbsp;
+<img src="https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma&logoColor=F24E1E" alt="Figma">&nbsp;
+<img src="https://img.shields.io/badge/-Jira-05122A?style=flat&logo=jira&logoColor=0052CC" alt="Jira">
+
 
 
 
