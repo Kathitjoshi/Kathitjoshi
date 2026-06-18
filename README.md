@@ -75,8 +75,8 @@ Welcome to my GitHub profile! I'm Kathit Joshi, a Curious Learner from PESU 27' 
 <img src="https://img.shields.io/badge/-Jira-05122A?style=flat&logo=jira&logoColor=0052CC" alt="Jira">
 <img src="https://img.shields.io/badge/-MinIO-05122A?style=flat&logo=minio&logoColor=C72E49" alt="MinIO">
 <img src="https://img.shields.io/badge/-Database_Technology-05122A?style=flat&logo=databricks&logoColor=FF3621" alt="Database Technology">&nbsp;
-
-
+<img src="https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript&logoColor=3178C6" alt="TypeScript">&nbsp;
+<img src="https://img.shields.io/badge/-CI%2FCD-05122A?style=flat&logo=githubactions&logoColor=2088FF" alt="CI/CD">
 
 
 ## ✍️ Programming Quote
