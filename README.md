@@ -63,7 +63,7 @@ Welcome to my GitHub profile! I'm Kathit Joshi, a Curious Learner from PESU 27' 
 <img src="https://img.shields.io/badge/-Plotly-05122A?style=flat&logo=plotly&logoColor=3F4F75" alt="Plotly">&nbsp;
 <img src="https://img.shields.io/badge/-Machine_Learning-05122A?style=flat&logo=scikitlearn&logoColor=F7931E" alt="Machine Learning">&nbsp;
 <img src="https://img.shields.io/badge/-Hugging_Face-05122A?style=flat&logo=huggingface" alt="Hugging Face">&nbsp;
-<img src="https://img.shields.io/badge/-Generative_AI-05122A?style=flat&logo=openai&logoColor=FFFFFF" alt="Generative AI">&nbsp;
+<img src="https://img.shields.io/badge/-Generative_AI-05122A?style=flat&logo=anthropi&logoColor=FFFFFF" alt="Generative AI">&nbsp;
 <img src="https://img.shields.io/badge/-Prompt_Engineering-05122A?style=flat&logo=anthropic&logoColor=F9F9F6" alt="Prompt Engineering">
 <img src="https://img.shields.io/badge/-CN-05122A?style=flat&logo=wireshark&logoColor=167EC6" alt="Computer Networks">&nbsp;
 <img src="https://img.shields.io/badge/-OS-05122A?style=flat&logo=gnubash&logoColor=white" alt="Operating Systems">&nbsp;
